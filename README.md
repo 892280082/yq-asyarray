@@ -1,5 +1,6 @@
 # yq-asyarray
 
+```javascript
 /**
  * @desc 包介绍
  * 用于数组,并且数组内的元素需要异步调用的。
@@ -40,7 +41,7 @@ asyArray(_array,2,function(ele,index,array,next){
     console.log("result:",resultArray);
     console.log("over");
 })
-
+```
  
 
 
