@@ -1,0 +1,19 @@
+{
+  "name": "yq-asyarray",
+  "version": "1.0.0",
+  "description": "可以很方便的异步处理数组,可以限制同时处理元素的个数",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/"
+  },
+  "keywords": [
+    "async",
+    "array"
+  ],
+  "author": "yq",
+  "license": "ISC"
+}
